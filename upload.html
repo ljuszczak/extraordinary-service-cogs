@@ -1,13 +1,11 @@
 <!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Add Your Cog</title><link rel="stylesheet" href="styles.css"></head>
 <body><main class="page"><div class="card">
 <h1>Add Your Cog</h1>
-<p>Photograph the square artwork area on your cog sheet. Your phone will automatically resize and crop the image.</p>
-<div class="photo-tip"><strong>For the best result:</strong> hold your phone directly above the page, include the entire square photo frame, and keep the cog centered.</div>
-<div class="field"><label><strong>First name (optional)</strong></label><input id="name" type="text" maxlength="40" autocomplete="given-name"></div>
+<p>Photograph the <strong>entire square photo frame</strong> on your coloring sheet.</p>
+<div class="photo-tip"><strong>Best photo:</strong> hold your phone directly above the page, fill the screen with the square frame, and keep all four corners visible.</div>
+<div class="field"><label><strong>First name (optional)</strong></label><input id="name" type="text" maxlength="40"></div>
 <div class="field"><label><strong>Take or choose a photo</strong></label><input id="photo" type="file" accept="image/*" capture="environment"></div>
-<div class="preview-wrap"><div id="placeholder">Your finished digital cog will preview here.</div><div id="preview" class="gear-preview hidden"></div></div>
+<div class="preview-wrap"><div id="placeholder">Your digital cog preview will appear here.</div><div id="preview" class="gear-preview hidden"></div></div>
 <div style="display:flex;gap:10px;flex-wrap:wrap"><button id="submit" class="primary" disabled>Submit My Cog</button><button id="clear" class="secondary" type="button">Retake / Choose Another</button></div>
 <div id="status" class="status hidden"></div>
-<p class="note">Only your cog artwork and optional first name are submitted.</p>
-</div></main>
-<script src="config.js"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="upload.js"></script></body></html>
+</div></main><script src="config.js"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="upload.js"></script></body></html>
