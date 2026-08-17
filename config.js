@@ -1,0 +1,8 @@
+// STARTER CONFIGURATION
+// Leave DEMO_MODE = true until your Supabase project is connected.
+window.COG_CONFIG = {
+  DEMO_MODE: true,
+  SUPABASE_URL: "PASTE_YOUR_SUPABASE_PROJECT_URL_HERE",
+  SUPABASE_ANON_KEY: "PASTE_YOUR_SUPABASE_ANON_KEY_HERE",
+  MAX_COGS: 75
+};

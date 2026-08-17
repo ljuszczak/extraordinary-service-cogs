@@ -1,0 +1,18 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Add Your Cog</title><link rel="stylesheet" href="styles.css"></head>
+<body><main class="page"><div class="card">
+<h1>Add Your Cog</h1>
+<p>Photograph your completed cog sheet. Make sure the cog is centered and the page is well lit.</p>
+<div class="field"><label for="name"><strong>First name (optional)</strong></label><input id="name" type="text" maxlength="40"></div>
+<div class="field"><label for="photo"><strong>Take or choose a photo</strong></label>
+<input id="photo" type="file" accept="image/*" capture="environment"></div>
+<div id="previewWrap" class="preview-wrap"><div id="placeholder">Your cog preview will appear here.</div><div id="preview" class="gear-preview hidden"></div></div>
+<div style="display:flex;gap:10px;flex-wrap:wrap">
+<button id="submit" class="primary" disabled>Submit My Cog</button>
+<button id="clear" class="secondary" type="button">Retake / Choose Another</button></div>
+<div id="status" class="status hidden"></div>
+<p class="note">This starter automatically resizes the selected image on the phone before submission. In Demo Mode, the submission is stored only in this browser.</p>
+</div></main>
+<script src="config.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="upload.js"></script></body></html>
