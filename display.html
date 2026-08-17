@@ -1,9 +1,18 @@
 <!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Extraordinary Service — Reveal</title><link rel="stylesheet" href="styles.css"></head>
 <body><section id="display">
 <div class="display-title">EXTRAORDINARY SERVICE<div class="display-subtitle">Every contribution connects back to the students we serve.</div></div>
+<div id="readyBadge" class="ready-badge"><span id="count">0</span> cogs ready</div>
 <div class="center-gear"></div><div class="center-label">STUDENTS</div><div id="gears"></div>
-<div class="counter"><span id="count">0</span> cogs ready</div>
-<div class="controls"><button id="refresh" class="secondary smallbutton">Refresh Count</button><button id="demo" class="secondary smallbutton">Load Demo Cogs</button><button id="build" class="primary">BUILD OUR MACHINE</button><button id="message" class="secondary smallbutton">Final Message</button><button id="reset" class="secondary smallbutton">Reset Screen</button></div>
+<div id="counter" class="counter">Press H to show/hide controls</div>
+<div id="toolbar" class="toolbar">
+<button id="newEvent" class="secondary smallbutton">Start Fresh Event</button>
+<button id="refresh" class="secondary smallbutton">Refresh Count</button>
+<button id="demo" class="secondary smallbutton">Load Demo Cogs</button>
+<button id="build" class="primary">BUILD OUR MACHINE</button>
+<button id="message" class="secondary smallbutton">Final Message</button>
+<button id="reset" class="secondary smallbutton">Reset Screen</button>
+<button id="present" class="secondary smallbutton">Hide Controls</button>
+</div>
 <div id="reveal" class="reveal"><div class="reveal-box"><h1>EVERY INTERACTION MATTERS</h1><p>When our work stays centered on students, individual acts of service become something greater together.</p></div></div>
 </section>
 <script src="config.js"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="display.js"></script></body></html>
