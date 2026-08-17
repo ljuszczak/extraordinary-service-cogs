@@ -1,602 +1,677 @@
 [
   {
     "id": 1,
-    "x": 12.0,
-    "y": 13,
-    "size": 7.6,
-    "direction": "cw",
-    "duration": 14
+    "ring": 1,
+    "x": 55.22,
+    "y": 44.35,
+    "size": 8.0,
+    "direction": "ccw",
+    "duration": 13
   },
   {
     "id": 2,
-    "x": 27.2,
-    "y": 13,
-    "size": 6.8,
-    "direction": "ccw",
-    "duration": 11
+    "ring": 1,
+    "x": 62.61,
+    "y": 49.42,
+    "size": 8.0,
+    "direction": "cw",
+    "duration": 13
   },
   {
     "id": 3,
-    "x": 42.4,
-    "y": 13,
-    "size": 6.2,
-    "direction": "cw",
-    "duration": 9
+    "ring": 1,
+    "x": 62.61,
+    "y": 56.58,
+    "size": 8.0,
+    "direction": "ccw",
+    "duration": 13
   },
   {
     "id": 4,
-    "x": 57.6,
-    "y": 13,
-    "size": 7.6,
-    "direction": "ccw",
-    "duration": 14
+    "ring": 1,
+    "x": 55.22,
+    "y": 61.65,
+    "size": 8.0,
+    "direction": "cw",
+    "duration": 13
   },
   {
     "id": 5,
-    "x": 72.8,
-    "y": 13,
-    "size": 6.8,
-    "direction": "cw",
-    "duration": 11
+    "ring": 1,
+    "x": 44.78,
+    "y": 61.65,
+    "size": 8.0,
+    "direction": "ccw",
+    "duration": 13
   },
   {
     "id": 6,
-    "x": 88.0,
-    "y": 13,
-    "size": 6.2,
-    "direction": "ccw",
-    "duration": 9
+    "ring": 1,
+    "x": 37.39,
+    "y": 56.58,
+    "size": 8.0,
+    "direction": "cw",
+    "duration": 13
   },
   {
     "id": 7,
-    "x": 13.2,
-    "y": 24,
-    "size": 6.8,
+    "ring": 1,
+    "x": 37.39,
+    "y": 49.42,
+    "size": 8.0,
     "direction": "ccw",
-    "duration": 11
+    "duration": 13
   },
   {
     "id": 8,
-    "x": 24.06,
-    "y": 24,
-    "size": 6.2,
+    "ring": 1,
+    "x": 44.78,
+    "y": 44.35,
+    "size": 8.0,
     "direction": "cw",
-    "duration": 9
+    "duration": 13
   },
   {
     "id": 9,
-    "x": 34.91,
-    "y": 24,
-    "size": 7.6,
-    "direction": "ccw",
-    "duration": 14
+    "ring": 2,
+    "x": 50.0,
+    "y": 37.16,
+    "size": 7.0,
+    "direction": "cw",
+    "duration": 11
   },
   {
     "id": 10,
-    "x": 45.77,
-    "y": 24,
-    "size": 6.8,
-    "direction": "cw",
+    "ring": 2,
+    "x": 61.55,
+    "y": 39.28,
+    "size": 7.0,
+    "direction": "ccw",
     "duration": 11
   },
   {
     "id": 11,
-    "x": 56.63,
-    "y": 24,
-    "size": 6.2,
-    "direction": "ccw",
-    "duration": 9
+    "ring": 2,
+    "x": 70.01,
+    "y": 45.08,
+    "size": 7.0,
+    "direction": "cw",
+    "duration": 11
   },
   {
     "id": 12,
-    "x": 67.49,
-    "y": 24,
-    "size": 7.6,
-    "direction": "cw",
-    "duration": 14
-  },
-  {
-    "id": 13,
-    "x": 78.34,
-    "y": 24,
-    "size": 6.8,
+    "ring": 2,
+    "x": 73.1,
+    "y": 53.0,
+    "size": 7.0,
     "direction": "ccw",
     "duration": 11
   },
   {
-    "id": 14,
-    "x": 89.2,
-    "y": 24,
-    "size": 6.2,
+    "id": 13,
+    "ring": 2,
+    "x": 70.01,
+    "y": 60.92,
+    "size": 7.0,
     "direction": "cw",
-    "duration": 9
+    "duration": 11
+  },
+  {
+    "id": 14,
+    "ring": 2,
+    "x": 61.55,
+    "y": 66.72,
+    "size": 7.0,
+    "direction": "ccw",
+    "duration": 11
   },
   {
     "id": 15,
-    "x": 12.0,
-    "y": 35,
-    "size": 6.2,
+    "ring": 2,
+    "x": 50.0,
+    "y": 68.84,
+    "size": 7.0,
     "direction": "cw",
-    "duration": 9
+    "duration": 11
   },
   {
     "id": 16,
-    "x": 20.44,
-    "y": 35,
-    "size": 7.6,
+    "ring": 2,
+    "x": 38.45,
+    "y": 66.72,
+    "size": 7.0,
     "direction": "ccw",
-    "duration": 14
+    "duration": 11
   },
   {
     "id": 17,
-    "x": 28.89,
-    "y": 35,
-    "size": 6.8,
+    "ring": 2,
+    "x": 29.99,
+    "y": 60.92,
+    "size": 7.0,
     "direction": "cw",
     "duration": 11
   },
   {
     "id": 18,
-    "x": 37.33,
-    "y": 35,
-    "size": 6.2,
+    "ring": 2,
+    "x": 26.9,
+    "y": 53.0,
+    "size": 7.0,
     "direction": "ccw",
-    "duration": 9
+    "duration": 11
   },
   {
     "id": 19,
-    "x": 45.78,
-    "y": 35,
-    "size": 7.6,
+    "ring": 2,
+    "x": 29.99,
+    "y": 45.08,
+    "size": 7.0,
     "direction": "cw",
-    "duration": 14
+    "duration": 11
   },
   {
     "id": 20,
-    "x": 54.22,
-    "y": 35,
-    "size": 6.8,
+    "ring": 2,
+    "x": 38.45,
+    "y": 39.28,
+    "size": 7.0,
     "direction": "ccw",
     "duration": 11
   },
   {
     "id": 21,
-    "x": 62.67,
-    "y": 35,
-    "size": 6.2,
-    "direction": "cw",
-    "duration": 9
+    "ring": 3,
+    "x": 56.35,
+    "y": 31.11,
+    "size": 6.1,
+    "direction": "ccw",
+    "duration": 9.5
   },
   {
     "id": 22,
-    "x": 71.11,
-    "y": 35,
-    "size": 7.6,
-    "direction": "ccw",
-    "duration": 14
+    "ring": 3,
+    "x": 68.08,
+    "y": 34.44,
+    "size": 6.1,
+    "direction": "cw",
+    "duration": 9.5
   },
   {
     "id": 23,
-    "x": 79.56,
-    "y": 35,
-    "size": 6.8,
-    "direction": "cw",
-    "duration": 11
+    "ring": 3,
+    "x": 77.06,
+    "y": 40.6,
+    "size": 6.1,
+    "direction": "ccw",
+    "duration": 9.5
   },
   {
     "id": 24,
-    "x": 88.0,
-    "y": 35,
-    "size": 6.2,
-    "direction": "ccw",
-    "duration": 9
+    "ring": 3,
+    "x": 81.92,
+    "y": 48.65,
+    "size": 6.1,
+    "direction": "cw",
+    "duration": 9.5
   },
   {
     "id": 25,
-    "x": 10.2,
-    "y": 46,
-    "size": 7.6,
+    "ring": 3,
+    "x": 81.92,
+    "y": 57.35,
+    "size": 6.1,
     "direction": "ccw",
-    "duration": 14
+    "duration": 9.5
   },
   {
     "id": 26,
-    "x": 17.65,
-    "y": 46,
-    "size": 6.8,
+    "ring": 3,
+    "x": 77.06,
+    "y": 65.4,
+    "size": 6.1,
     "direction": "cw",
-    "duration": 11
+    "duration": 9.5
   },
   {
     "id": 27,
-    "x": 25.11,
-    "y": 46,
-    "size": 6.2,
+    "ring": 3,
+    "x": 68.08,
+    "y": 71.56,
+    "size": 6.1,
     "direction": "ccw",
-    "duration": 9
+    "duration": 9.5
   },
   {
     "id": 28,
-    "x": 32.56,
-    "y": 46,
-    "size": 7.6,
+    "ring": 3,
+    "x": 56.35,
+    "y": 74.89,
+    "size": 6.1,
     "direction": "cw",
-    "duration": 14
+    "duration": 9.5
   },
   {
     "id": 29,
-    "x": 40.02,
-    "y": 46,
-    "size": 6.8,
+    "ring": 3,
+    "x": 43.65,
+    "y": 74.89,
+    "size": 6.1,
     "direction": "ccw",
-    "duration": 11
+    "duration": 9.5
   },
   {
     "id": 30,
-    "x": 47.47,
-    "y": 46,
-    "size": 6.2,
+    "ring": 3,
+    "x": 31.92,
+    "y": 71.56,
+    "size": 6.1,
     "direction": "cw",
-    "duration": 9
+    "duration": 9.5
   },
   {
     "id": 31,
-    "x": 54.93,
-    "y": 46,
-    "size": 7.6,
+    "ring": 3,
+    "x": 22.94,
+    "y": 65.4,
+    "size": 6.1,
     "direction": "ccw",
-    "duration": 14
+    "duration": 9.5
   },
   {
     "id": 32,
-    "x": 62.38,
-    "y": 46,
-    "size": 6.8,
+    "ring": 3,
+    "x": 18.08,
+    "y": 57.35,
+    "size": 6.1,
     "direction": "cw",
-    "duration": 11
+    "duration": 9.5
   },
   {
     "id": 33,
-    "x": 69.84,
-    "y": 46,
-    "size": 6.2,
+    "ring": 3,
+    "x": 18.08,
+    "y": 48.65,
+    "size": 6.1,
     "direction": "ccw",
-    "duration": 9
+    "duration": 9.5
   },
   {
     "id": 34,
-    "x": 77.29,
-    "y": 46,
-    "size": 7.6,
+    "ring": 3,
+    "x": 22.94,
+    "y": 40.6,
+    "size": 6.1,
     "direction": "cw",
-    "duration": 14
+    "duration": 9.5
   },
   {
     "id": 35,
-    "x": 84.75,
-    "y": 46,
-    "size": 6.8,
+    "ring": 3,
+    "x": 31.92,
+    "y": 34.44,
+    "size": 6.1,
     "direction": "ccw",
-    "duration": 11
+    "duration": 9.5
   },
   {
     "id": 36,
-    "x": 92.2,
-    "y": 46,
-    "size": 6.2,
+    "ring": 3,
+    "x": 43.65,
+    "y": 31.11,
+    "size": 6.1,
     "direction": "cw",
-    "duration": 9
+    "duration": 9.5
   },
   {
     "id": 37,
-    "x": 9.0,
-    "y": 57,
-    "size": 6.8,
+    "ring": 4,
+    "x": 50.0,
+    "y": 24.92,
+    "size": 5.5,
     "direction": "cw",
-    "duration": 11
+    "duration": 8.5
   },
   {
     "id": 38,
-    "x": 16.45,
-    "y": 57,
-    "size": 6.2,
+    "ring": 4,
+    "x": 64.01,
+    "y": 26.61,
+    "size": 5.5,
     "direction": "ccw",
-    "duration": 9
+    "duration": 8.5
   },
   {
     "id": 39,
-    "x": 23.91,
-    "y": 57,
-    "size": 7.6,
+    "ring": 4,
+    "x": 76.32,
+    "y": 31.49,
+    "size": 5.5,
     "direction": "cw",
-    "duration": 14
+    "duration": 8.5
   },
   {
     "id": 40,
-    "x": 31.36,
-    "y": 57,
-    "size": 6.8,
+    "ring": 4,
+    "x": 85.46,
+    "y": 38.96,
+    "size": 5.5,
     "direction": "ccw",
-    "duration": 11
+    "duration": 8.5
   },
   {
     "id": 41,
-    "x": 38.82,
-    "y": 57,
-    "size": 6.2,
+    "ring": 4,
+    "x": 90.33,
+    "y": 48.12,
+    "size": 5.5,
     "direction": "cw",
-    "duration": 9
+    "duration": 8.5
   },
   {
     "id": 42,
-    "x": 46.27,
-    "y": 57,
-    "size": 7.6,
+    "ring": 4,
+    "x": 90.33,
+    "y": 57.88,
+    "size": 5.5,
     "direction": "ccw",
-    "duration": 14
+    "duration": 8.5
   },
   {
     "id": 43,
-    "x": 53.73,
-    "y": 57,
-    "size": 6.8,
+    "ring": 4,
+    "x": 85.46,
+    "y": 67.04,
+    "size": 5.5,
     "direction": "cw",
-    "duration": 11
+    "duration": 8.5
   },
   {
     "id": 44,
-    "x": 61.18,
-    "y": 57,
-    "size": 6.2,
+    "ring": 4,
+    "x": 76.32,
+    "y": 74.51,
+    "size": 5.5,
     "direction": "ccw",
-    "duration": 9
+    "duration": 8.5
   },
   {
     "id": 45,
-    "x": 68.64,
-    "y": 57,
-    "size": 7.6,
+    "ring": 4,
+    "x": 64.01,
+    "y": 79.39,
+    "size": 5.5,
     "direction": "cw",
-    "duration": 14
+    "duration": 8.5
   },
   {
     "id": 46,
-    "x": 76.09,
-    "y": 57,
-    "size": 6.8,
+    "ring": 4,
+    "x": 50.0,
+    "y": 81.08,
+    "size": 5.5,
     "direction": "ccw",
-    "duration": 11
+    "duration": 8.5
   },
   {
     "id": 47,
-    "x": 83.55,
-    "y": 57,
-    "size": 6.2,
+    "ring": 4,
+    "x": 35.99,
+    "y": 79.39,
+    "size": 5.5,
     "direction": "cw",
-    "duration": 9
+    "duration": 8.5
   },
   {
     "id": 48,
-    "x": 91.0,
-    "y": 57,
-    "size": 7.6,
+    "ring": 4,
+    "x": 23.68,
+    "y": 74.51,
+    "size": 5.5,
     "direction": "ccw",
-    "duration": 14
+    "duration": 8.5
   },
   {
     "id": 49,
-    "x": 13.2,
-    "y": 68,
-    "size": 6.2,
-    "direction": "ccw",
-    "duration": 9
+    "ring": 4,
+    "x": 14.54,
+    "y": 67.04,
+    "size": 5.5,
+    "direction": "cw",
+    "duration": 8.5
   },
   {
     "id": 50,
-    "x": 21.64,
-    "y": 68,
-    "size": 7.6,
-    "direction": "cw",
-    "duration": 14
+    "ring": 4,
+    "x": 9.67,
+    "y": 57.88,
+    "size": 5.5,
+    "direction": "ccw",
+    "duration": 8.5
   },
   {
     "id": 51,
-    "x": 30.09,
-    "y": 68,
-    "size": 6.8,
-    "direction": "ccw",
-    "duration": 11
+    "ring": 4,
+    "x": 9.67,
+    "y": 48.12,
+    "size": 5.5,
+    "direction": "cw",
+    "duration": 8.5
   },
   {
     "id": 52,
-    "x": 38.53,
-    "y": 68,
-    "size": 6.2,
-    "direction": "cw",
-    "duration": 9
+    "ring": 4,
+    "x": 14.54,
+    "y": 38.96,
+    "size": 5.5,
+    "direction": "ccw",
+    "duration": 8.5
   },
   {
     "id": 53,
-    "x": 46.98,
-    "y": 68,
-    "size": 7.6,
-    "direction": "ccw",
-    "duration": 14
+    "ring": 4,
+    "x": 23.68,
+    "y": 31.49,
+    "size": 5.5,
+    "direction": "cw",
+    "duration": 8.5
   },
   {
     "id": 54,
-    "x": 55.42,
-    "y": 68,
-    "size": 6.8,
-    "direction": "cw",
-    "duration": 11
+    "ring": 4,
+    "x": 35.99,
+    "y": 26.61,
+    "size": 5.5,
+    "direction": "ccw",
+    "duration": 8.5
   },
   {
     "id": 55,
-    "x": 63.87,
-    "y": 68,
-    "size": 6.2,
+    "ring": 5,
+    "x": 57.36,
+    "y": 19.54,
+    "size": 5.0,
     "direction": "ccw",
-    "duration": 9
+    "duration": 7.5
   },
   {
     "id": 56,
-    "x": 72.31,
-    "y": 68,
-    "size": 7.6,
+    "ring": 5,
+    "x": 71.41,
+    "y": 22.51,
+    "size": 5.0,
     "direction": "cw",
-    "duration": 14
+    "duration": 7.5
   },
   {
     "id": 57,
-    "x": 80.76,
-    "y": 68,
-    "size": 6.8,
+    "ring": 5,
+    "x": 83.57,
+    "y": 28.19,
+    "size": 5.0,
     "direction": "ccw",
-    "duration": 11
+    "duration": 7.5
   },
   {
     "id": 58,
-    "x": 89.2,
-    "y": 68,
-    "size": 6.2,
+    "ring": 5,
+    "x": 92.74,
+    "y": 36.08,
+    "size": 5.0,
     "direction": "cw",
-    "duration": 9
+    "duration": 7.5
   },
   {
     "id": 59,
-    "x": 12.0,
-    "y": 79,
-    "size": 7.6,
-    "direction": "cw",
-    "duration": 14
+    "ring": 5,
+    "x": 95,
+    "y": 45.47,
+    "size": 5.0,
+    "direction": "ccw",
+    "duration": 7.5
   },
   {
     "id": 60,
-    "x": 21.5,
-    "y": 79,
-    "size": 6.8,
-    "direction": "ccw",
-    "duration": 11
+    "ring": 5,
+    "x": 95,
+    "y": 55.53,
+    "size": 5.0,
+    "direction": "cw",
+    "duration": 7.5
   },
   {
     "id": 61,
-    "x": 31.0,
-    "y": 79,
-    "size": 6.2,
-    "direction": "cw",
-    "duration": 9
+    "ring": 5,
+    "x": 95,
+    "y": 65.36,
+    "size": 5.0,
+    "direction": "ccw",
+    "duration": 7.5
   },
   {
     "id": 62,
-    "x": 40.5,
-    "y": 79,
-    "size": 7.6,
-    "direction": "ccw",
-    "duration": 14
+    "ring": 5,
+    "x": 88.58,
+    "y": 74.1,
+    "size": 5.0,
+    "direction": "cw",
+    "duration": 7.5
   },
   {
     "id": 63,
-    "x": 50.0,
-    "y": 79,
-    "size": 6.8,
-    "direction": "cw",
-    "duration": 11
+    "ring": 5,
+    "x": 77.8,
+    "y": 80.96,
+    "size": 5.0,
+    "direction": "ccw",
+    "duration": 7.5
   },
   {
     "id": 64,
-    "x": 59.5,
-    "y": 79,
-    "size": 6.2,
-    "direction": "ccw",
-    "duration": 9
+    "ring": 5,
+    "x": 64.55,
+    "y": 85.34,
+    "size": 5.0,
+    "direction": "cw",
+    "duration": 7.5
   },
   {
     "id": 65,
-    "x": 69.0,
-    "y": 79,
-    "size": 7.6,
-    "direction": "cw",
-    "duration": 14
+    "ring": 5,
+    "x": 50.0,
+    "y": 86.84,
+    "size": 5.0,
+    "direction": "ccw",
+    "duration": 7.5
   },
   {
     "id": 66,
-    "x": 78.5,
-    "y": 79,
-    "size": 6.8,
-    "direction": "ccw",
-    "duration": 11
+    "ring": 5,
+    "x": 35.45,
+    "y": 85.34,
+    "size": 5.0,
+    "direction": "cw",
+    "duration": 7.5
   },
   {
     "id": 67,
-    "x": 88.0,
-    "y": 79,
-    "size": 6.2,
-    "direction": "cw",
-    "duration": 9
+    "ring": 5,
+    "x": 22.2,
+    "y": 80.96,
+    "size": 5.0,
+    "direction": "ccw",
+    "duration": 7.5
   },
   {
     "id": 68,
-    "x": 13.2,
-    "y": 90,
-    "size": 6.8,
-    "direction": "ccw",
-    "duration": 11
+    "ring": 5,
+    "x": 11.42,
+    "y": 74.1,
+    "size": 5.0,
+    "direction": "cw",
+    "duration": 7.5
   },
   {
     "id": 69,
-    "x": 24.06,
-    "y": 90,
-    "size": 6.2,
-    "direction": "cw",
-    "duration": 9
+    "ring": 5,
+    "x": 5,
+    "y": 65.36,
+    "size": 5.0,
+    "direction": "ccw",
+    "duration": 7.5
   },
   {
     "id": 70,
-    "x": 34.91,
-    "y": 90,
-    "size": 7.6,
-    "direction": "ccw",
-    "duration": 14
+    "ring": 5,
+    "x": 5,
+    "y": 55.53,
+    "size": 5.0,
+    "direction": "cw",
+    "duration": 7.5
   },
   {
     "id": 71,
-    "x": 45.77,
-    "y": 90,
-    "size": 6.8,
-    "direction": "cw",
-    "duration": 11
+    "ring": 5,
+    "x": 5,
+    "y": 45.47,
+    "size": 5.0,
+    "direction": "ccw",
+    "duration": 7.5
   },
   {
     "id": 72,
-    "x": 56.63,
-    "y": 90,
-    "size": 6.2,
-    "direction": "ccw",
-    "duration": 9
+    "ring": 5,
+    "x": 7.26,
+    "y": 36.08,
+    "size": 5.0,
+    "direction": "cw",
+    "duration": 7.5
   },
   {
     "id": 73,
-    "x": 67.49,
-    "y": 90,
-    "size": 7.6,
-    "direction": "cw",
-    "duration": 14
+    "ring": 5,
+    "x": 16.43,
+    "y": 28.19,
+    "size": 5.0,
+    "direction": "ccw",
+    "duration": 7.5
   },
   {
     "id": 74,
-    "x": 78.34,
-    "y": 90,
-    "size": 6.8,
-    "direction": "ccw",
-    "duration": 11
+    "ring": 5,
+    "x": 28.59,
+    "y": 22.51,
+    "size": 5.0,
+    "direction": "cw",
+    "duration": 7.5
   },
   {
     "id": 75,
-    "x": 89.2,
-    "y": 90,
-    "size": 6.2,
-    "direction": "cw",
-    "duration": 9
+    "ring": 5,
+    "x": 42.64,
+    "y": 19.54,
+    "size": 5.0,
+    "direction": "ccw",
+    "duration": 7.5
   }
 ]
